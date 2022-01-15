@@ -1,0 +1,3 @@
+start: function() -> u32
+process: function(ptr: u32, msg: string) -> s32
+result: function(ptr: u32) -> string
